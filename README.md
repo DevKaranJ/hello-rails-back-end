@@ -41,10 +41,19 @@
       </ul>
   </details>
 
+  <details>
+  - <summary>Server</summary>
+      <ul>
+        <li><a href="https://guides.rubyonrails.org/">Ruby on Rails</a></li>
+        <li><a href="https://www.postgresql.org/docs/">PostgreSQL</a></li>
+      </ul>
+  </details>
+
 ### Key Features <a name="key-features"></a>
 
+- Rails API backend
 - React Front-end
-- Redux Toolkit used to consume the Rails backend API
+- Redux Toolkit used to consume the backend api
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
