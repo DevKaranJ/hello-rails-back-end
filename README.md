@@ -27,7 +27,7 @@
 
 # 📖 hello-rails-back-end <a name="about-project"></a>
 
-**hello-rails-back-end** Is a Rails app that serves data from a PostgreSQL database to [hello-react-front-end ]([https://github.com/DevKaranJ/hello-rails-back-end/tree/feature/backendApi](https://github.com/DevKaranJ/hello-react-front-end/tree/feature/clientSide)) Rails app and renders the received data in the browser.
+**hello-rails-back-end** Is a Rails app that serves data from a PostgreSQL database to [hello-react-front-end ](https://github.com/DevKaranJ/hello-react-front-end/tree/feature/clientSide) Rails app and renders the received data in the browser.
 
 ## 🛠 Built With <a name="built-with"></a>
 
